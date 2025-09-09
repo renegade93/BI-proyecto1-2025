@@ -1,1 +1,1 @@
-# comunicaciones-proyecto1-2025
+# bi-proyecto1-2025
