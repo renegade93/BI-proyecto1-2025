@@ -1,83 +1,99 @@
-# Text Analytics Project for UN Population Fund (UNFPA)
+# Proyecto de Analítica de Textos para el Fondo de Población de las Naciones Unidas (UNFPA)
 
-## Project Overview
+## Descripción del Proyecto
 
-Build text analytics models to automatically classify citizen opinions with UN Sustainable Development Goals (SDGs) 1, 3, and 4:
-- SDG 1: End of Poverty
-- SDG 3: Good Health and Well-being
-- SDG 4: Quality Education
+Construir modelos de analítica de textos para **clasificar automáticamente opiniones ciudadanas** en los Objetivos de Desarrollo Sostenible (ODS) 1, 3 y 4:
 
-## Etapa 1 - Step-by-Step Tasks (Due: September 13, 2025, 8:00 PM)
+* **ODS 1**: Fin de la pobreza
+* **ODS 3**: Salud y bienestar
+* **ODS 4**: Educación de calidad
 
-### Preliminary Steps
-1. Form group of 2-3 students
-2. Register group in BloqueNeón
-3. Read entire project document
+## Etapa 1 - Tareas Paso a Paso (Entrega: 13 de septiembre de 2025, 8:00 PM)
 
-### Section 1 (20%): Machine Learning Process Documentation
-4. Complete Machine Learning Canvas with all 9 sections:
-   - Learning Task
-   - Decisions
-   - Value Proposition
-   - Data Sources
-   - Impact Simulation
-   - Learning (Model Usage)
-   - Model Construction
-   - Feature Engineering
-   - (Skip: Data Collection and Monitoring sections)
+### Pasos preliminares
 
-### Section 2 (20%): Data Understanding and Preparation
-5. Perform data profiling and quality analysis
-6. Implement data preprocessing and transformations
-7. Prepare data according to domain requirements and selected algorithms
+1. Formar grupo de 2–3 estudiantes.
+2. Registrar el grupo en BloqueNeón.
+3. Leer todo el documento del proyecto.
 
-### Section 3 (20%): Modeling and Evaluation
-8. Implement first algorithm (assign to student 1)
-9. Implement second algorithm (assign to student 2)
-10. Implement third algorithm (assign to student 3, or additional algorithm if 2-person team)
-11. Document each algorithm's description and implementation
-12. Calculate evaluation metrics for all models
-13. Compare models and justify final selection
-14. Include student names for each algorithm worked on
+### Sección 1 (20%): Documentación del Proceso de Aprendizaje Automático
 
-### Section 4 (20%): Results
-15. Analyze quality metrics and business impact
-16. Perform word analysis for ODS classification
-17. Develop organizational strategies based on results
-18. Create Excel file with test data and model predictions
-19. Record 5-minute explanatory video for wiki
+4. Completar el **Lienzo de Aprendizaje Automático** con las 9 secciones:
 
-### Section 5 (8%): Teamwork Documentation
-20. Document roles and tasks per team member
-21. Record time spent (hours) per person per task
-22. Document algorithm assignments per student
-23. Document project challenges and solutions
-24. Document ChatGPT usage
-25. Distribute 100 points among team members
-26. Identify improvement points for Stage 2
+   * Tarea de aprendizaje
+   * Decisiones
+   * Propuesta de valor
+   * Fuentes de datos
+   * Simulación de impacto
+   * Aprendizaje (uso del modelo)
+   * Construcción de modelos
+   * Ingeniería de características
+   * *(Omitir: Recolección de datos y Monitoreo)*
 
-### Additional Deliverables
-27. Prepare for individual assessment/defense (12%)
-28. Create GitHub repository with wiki
-29. Upload processed dataset to repository
-30. Ensure all code is referenced in deliverables
+### Sección 2 (20%): Entendimiento y Preparación de los Datos
 
-### Submission Requirements
-31. Submit wiki URL through BloqueNeón
-32. Ensure document is max 10 pages (Arial 12, single column)
-33. Submit by September 13, 2025, 8:00 PM
+5. Realizar perfilamiento y análisis de calidad de los datos.
+6. Implementar preprocesamiento y transformaciones.
+7. Preparar los datos de acuerdo con el dominio y los algoritmos seleccionados.
 
-## Key Project Guidelines
+### Sección 3 (20%): Modelado y Evaluación
 
-- **Team Formation**: 2-3 students, can be from different sections
-- **Documentation**: Justify every decision in each phase
-- **Business Focus**: Connect technical results to organizational needs
-- **Repository**: Create comprehensive wiki with all deliverables and code references
-- **Bonus Opportunity**: Top 5 groups by model performance get 0.3/5.0 bonus points
+8. Implementar el primer algoritmo (asignar a estudiante 1).
+9. Implementar el segundo algoritmo (asignar a estudiante 2).
+10. Implementar el tercer algoritmo (asignar a estudiante 3, o uno adicional si el grupo es de 2 personas).
+11. Documentar descripción e implementación de cada algoritmo.
+12. Calcular métricas de evaluación para todos los modelos.
+13. Comparar modelos y justificar la selección final.
+14. Incluir los nombres de los estudiantes que trabajaron en cada algoritmo.
 
-## Success Criteria
+### Sección 4 (20%): Resultados
 
-- Models should classify citizen opinions into SDGs 1, 3, and 4
-- Analysis must identify key words linking opinions to specific SDGs
-- Solution should be business-relevant and technically sound
-- Complete documentation with justified decisions throughout
+15. Analizar métricas de calidad e impacto en el negocio.
+16. Realizar análisis de palabras para clasificación en ODS.
+17. Proponer estrategias organizacionales basadas en los resultados.
+18. Crear archivo Excel con los datos de prueba y las predicciones del modelo.
+19. Grabar video explicativo de 5 minutos para la wiki.
+
+### Sección 5 (8%): Documentación del Trabajo en Equipo
+
+20. Documentar roles y tareas de cada integrante.
+21. Registrar tiempo invertido (horas) por persona en cada tarea.
+22. Documentar la asignación de algoritmos a cada estudiante.
+23. Documentar retos enfrentados y soluciones.
+24. Documentar uso de ChatGPT en el proyecto.
+25. Distribuir 100 puntos entre los miembros del grupo.
+26. Identificar puntos de mejora para la Etapa 2.
+
+### Entregables adicionales
+
+27. Prepararse para evaluación individual/sustentación (12%).
+28. Crear repositorio en GitHub con wiki.
+29. Subir dataset procesado al repositorio.
+30. Asegurar que todo el código esté referenciado en los entregables.
+
+### Requisitos de Entrega
+
+31. Entregar el enlace de la wiki a través de BloqueNeón.
+32. Documento máximo de 10 páginas (Arial 12, a una columna).
+33. Entregar antes del 13 de septiembre de 2025, 8:00 PM.
+
+---
+
+## Pautas Clave del Proyecto
+
+* **Formación de equipos**: 2–3 estudiantes, incluso de diferentes secciones.
+* **Documentación**: Justificar todas las decisiones en cada fase.
+* **Enfoque de negocio**: Conectar resultados técnicos con necesidades organizacionales.
+* **Repositorio**: Crear wiki completa con todos los entregables y referencias al código.
+* **Bono**: Los 5 mejores grupos según desempeño del modelo obtendrán **+0.3/5.0** en la nota.
+
+---
+
+## Criterios de Éxito
+
+* Los modelos deben clasificar las opiniones ciudadanas en ODS 1, 3 y 4.
+* El análisis debe identificar palabras clave que vinculen opiniones a cada ODS.
+* La solución debe ser relevante para el negocio y técnicamente sólida.
+* Toda la documentación debe justificar las decisiones tomadas en cada fase.
+
+---
